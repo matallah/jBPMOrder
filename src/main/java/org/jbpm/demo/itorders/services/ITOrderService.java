@@ -12,7 +12,7 @@ public class ITOrderService implements java.io.Serializable {
     }
 
     public String printMessage(String text) {
-        String message = "Message received :: " + text + "!";
+        String message = "Message received mohammed :: " + text + "!";
         System.out.println(message);
         return message;
     }
